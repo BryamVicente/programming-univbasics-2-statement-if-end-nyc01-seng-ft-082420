@@ -12,3 +12,10 @@ puts "code before if...end"
 if run_code_inside
 end
   puts "Code after if...end"
+
+current_time = time.now
+if current_time == even number
+  puts "Even!"
+else 
+  puts "Odd!"
+end
