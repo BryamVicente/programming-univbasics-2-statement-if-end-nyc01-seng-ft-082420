@@ -16,6 +16,6 @@ end
 current_time = time.now
 if current_time == even number
   puts "Even!"
-else 
+else
   puts "Odd!"
 end
